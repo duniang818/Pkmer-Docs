@@ -16,7 +16,7 @@ PARA 是一个独特的、流行的、包含 Projects、Areas、Resources 和 Ar
 
 ![image.png](https://cdn.pkmer.cn/images/20230531205558.png!pkmer)
 
-在知识管理的领域中，PARA 也是一个非常流行的方法论，它指的是项目（Projects）、领域（Areas）、参考材料（References）和归档（Archives）。
+在知识管理的领域中，PARA 也是一个非常流行的方法论，它指的是项目（Projects）、领域（Areas）、资源(Resources)和归档（Archives）。
 
 ![image.png](https://cdn.pkmer.cn/images/20230531205523.png!pkmer)
 
